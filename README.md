@@ -31,10 +31,5 @@ oauth2lab
 1. 所有代码仅供学习参考，不是生产级
 2. 代码和ppt采用[Mit license](LICENSE)
 
-# 极客时间课程
-
-《微服务架构实战160讲》
-
-<img src="image/course_ad.jpg" alt="drawing" style="width: 480;"/>
 
 
